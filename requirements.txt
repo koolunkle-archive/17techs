@@ -1,0 +1,5 @@
+bitstring
+flask
+pyyaml
+lxml
+protobuf>=7.35.1
